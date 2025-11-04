@@ -82,14 +82,4 @@ This project is a full-stack application with a clear separation of concerns.
 
 7. The frontend displays the data on the "Results" page.
 
-## Future Improvements (For an MS Application)
-
-This project, while fully functional, is a perfect foundation for future development. My next steps would be:
-
-1. **Migrate to PostgreSQL:** This is the most critical upgrade. I would replace the `localStorage` system with a full PostgreSQL database (a skill from my resume). This would allow users to access their log from *any* device or browser, making it a true, persistent web service.
-
-2. **Full User Authentication:** To support the database, I would implement a secure JWT (JSON Web Token) authentication system.
-
-3. **Deeper Nutritional Tracking:** I would expand the AI prompt to also return macronutrients (Protein, Fat, Carbs) and allow users to track these macros on their dashboard.
-
 *Built by Sri Venkata Arya Pandrangi.*
