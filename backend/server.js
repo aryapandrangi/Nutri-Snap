@@ -9,7 +9,7 @@ const port = 8000;
 
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://nutri-snap-seven.vercel.app/"
+  "https://nutri-snap-seven.vercel.app"
 ];
 
 const corsOptions = {

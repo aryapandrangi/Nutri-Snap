@@ -78,7 +78,7 @@ function LandingPage({ onStartApp, onGoToLog, onGoToUpload }) {
             </div>
             <div className="hero-image">
               <img
-                src="https.id-preview--c0336270-8fce-4ff9-8ab1-f2b7a5f16eea.lovable.app/assets/hero-salad-dcAvoj7E.jpg"
+                src="https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg"
                 alt="Healthy salad bowl"
                 onError={(e) => e.target.src = 'https://placehold.co/600x600/e2f5e9/333?text=Healthy+Meal'}
               />
