@@ -4,7 +4,7 @@ Nutri-Snap is a full-stack, intelligent web application designed to bridge the g
 
 This project demonstrates the integration of a modern frontend (React), a robust backend (Node.js/Express), and a powerful multimodal AI (Google Gemini) to solve a complex, real-world problem.
 
-[**Click Here for a Live Demo!**](https://nutri-snap-seven.vercel.app)
+Live Link 🔗: [**Click Here for a Live Demo of Nutri-Snap**](https://nutri-snap-seven.vercel.app)
 
 ## What It Does (Key Features)
 
